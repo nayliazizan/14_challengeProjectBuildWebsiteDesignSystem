@@ -1,0 +1,112 @@
+h1, h2, a, ul.colorbox, #aboutme > p {
+    font-family: 'Chakra Petch';
+}
+
+h2 {
+    margin: 10px;
+}
+
+section {
+    border: 5px solid black;
+    margin: 20px;
+}
+  
+  section#colors ul {
+    text-align: center;
+  }
+
+  ul.colorbox {
+    padding: 20px;
+  }
+  
+  ul.colorbox li {
+    display: inline-block;
+    list-style: none;
+    width: 200px;
+    padding: 10px 20px;
+    margin-bottom: 3px;
+  }
+  
+  .colorbox .color {
+    color: white;
+    font-weight: 100;
+    letter-spacing: 2px;
+    display: block;
+  }
+  
+  .colorbox .value {
+    color: white;
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+
+  #milk {
+    background-color: #FFF3C7;
+  }
+
+  #milkpink {
+    background-color: #FEC7B4;
+  }
+
+  #pink {
+    background-color: #FC819E;
+  }
+
+  #strongpink {
+    background-color: #F7418F;
+  }
+
+.two {
+  font-weight: bold;
+}
+
+.three {
+  font-style: italic;
+}
+
+ul.fontbox li {
+  display: inline-block;
+  list-style: none;
+  width: 400px;
+  padding: 10px 20px;
+  margin-bottom: 3px;
+}
+
+#fonts li > h4 {
+  text-decoration: underline;
+
+}
+
+li#bebas, #h1, #h1 h1 {
+  font-family: "Bebas Neue";
+}
+
+li#quicksand, #h3 {
+  font-family: "Quicksand";
+}
+
+li#kanit, #p {
+  font-family: "Kanit";
+}
+
+#h1 {
+  font-weight: 700;
+  font-size: 26px;
+}
+
+#h3 {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#p {
+  font-weight: 300;
+  font-size: 16px;
+}
+
+#aboutme > p {
+  background-color: #8B9D77;
+  padding: 10px;
+  text-align: center;
+}
